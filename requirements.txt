@@ -2,4 +2,4 @@ flask
 nltk
 textblob
 numpy
-re
+regex
