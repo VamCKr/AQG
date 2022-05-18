@@ -1,0 +1,5 @@
+flask
+nltk
+textblob
+numpy
+re
